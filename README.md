@@ -65,7 +65,7 @@ This profile is a reflection of my journey in tech—constantly learning, buildi
 ---
 
 ### 📌 **Featured Projects**  
-- **[lms](https://github.com/Shedie254/LMS.git)**:LIBRARY MANAGEMENT SYSTEM A brief description of what it does and why it’s cool.  
+- **[lms](https://github.com/Shedie254/LMS.git)**:LIBRARY MANAGEMENT SYSTEM.  
 - **[simple_shell](https://github.com/JoyceNjoro1/simple_shell.git)**: THIS PROJECT TRIES TO CREATEA SHELL FOR INTERRACTING WITH THE COMPUTER CHECK IT OUT  
 
 ---
